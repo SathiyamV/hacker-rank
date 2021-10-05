@@ -1,9 +1,0 @@
-- 👋 Hi, I’m @Sathiya sundaram V
-- 👀 I’m interested to learning new stuffs...
-- 🌱 I’m currently learning python...
-- 📫 https://youtu.be/_uQrJ0TkZlc
-
-<!---
-SathiyamV/SathiyamV is a ✨ special ✨ repository because its `hacker rank.md` (this file) appears on your GitHub profile.
-https://youtu.be/_uQrJ0TkZlc You can click the Preview link to take a look at your changes.
---->
